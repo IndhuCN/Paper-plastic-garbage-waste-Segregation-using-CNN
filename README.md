@@ -1,0 +1,1 @@
+# Paper-plastic-garbage-waste-Segregation-using-CNN
